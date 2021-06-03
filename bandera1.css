@@ -1,0 +1,49 @@
+.bandera{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 600px;
+    margin: 40px;
+    float:left;
+}
+.mexico1{
+background-color: green;
+width: 33.33%;
+height: 100%;
+float: left;
+}
+.mexico2{
+    background-color: white;
+    width: auto;
+    height: 0px;
+    float: left;
+    padding-left: 20px;
+    padding-top: 200px;
+}
+.mexico3{
+    background-color: red;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+
+}
+.escudomex {
+    width: 200px;
+    height: 200px;
+}
+.portugal1{
+    background-color: green;
+    width: 38.5%;
+    height: 100%;
+    float: left;
+}
+.portugal2{
+    background-color: red;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.escudopor{
+    width: 380px;
+    height: 300px;
+    background: center;
+}
